@@ -1,1 +1,10 @@
 Hello DigiltalUnicorn
+
+Pats-Air:Documents pathunt$ mkdir DigitalUnicorn
+Pats-Air:Documents pathunt$ touch Empty
+Pats-Air:Documents pathunt$ mv Empty Index
+Pats-Air:Documents pathunt$ open Index
+Pats-Air:Documents pathunt$ pbpaste > Index
+Pats-Air:Documents pathunt$ mv Index DigitalUnicorn
+Pats-Air:Documents pathunt$
+
